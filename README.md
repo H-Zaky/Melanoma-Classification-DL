@@ -1,4 +1,5 @@
 # Melanoma Classification Using ResNet50
+![image](https://github.com/user-attachments/assets/fe6ddbbb-9021-4a6a-afa3-ec24a42870fc)
 
 This project demonstrates the use of transfer learning for melanoma classification using the ResNet50 model, a pre-trained convolutional neural network (CNN). The model is fine-tuned on a custom dataset of melanoma images to classify images into two categories.
 
